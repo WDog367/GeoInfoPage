@@ -4,5 +4,21 @@ title: Privacy Policy
 permalink: /privacy_policy/
 ---
 
-<!-- <p> Last Updated: {{ page.last_modified_at | date: '%d %B %Y' }} </p> -->
+<!-- get date from page data, if available -->
+<p id='last_modified_at' > {% if page.last_modified_at %}Last Modified: {{ page.last_modified_at | date: '%Y-%m-%d' }} {% endif %}</p>
+<script>
+  // Fetch the last modified date from the github repo
+  if (document.getElementById('last_modified_at')) {
+    fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
+      .then((response) => {
+        return response.json();
+      })
+      .then((commits) => {
+        var modified = commits[0]['commit']['committer']['date'].slice(0,10);
+        if(modified != "{{ page.last_modified_at | date: "%Y-%m-%d" }}") {
+          document.getElementById('last_modified_at').textContent = "Last Modified: " + modified;
+        }
+      });
+  }
+</script>
 {{ content }}

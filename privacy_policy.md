@@ -2,6 +2,7 @@
 layout: page_dated
 title: Privacy Policy
 permalink: /privacy_policy/
+# last_modified_at: 2021-04-02 10:30:00 +0900
 ---
 
 ## Privacy Policy

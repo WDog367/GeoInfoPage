@@ -2,6 +2,7 @@
 layout: page_dated
 title: Terms of Service
 permalink: /terms_of_service/
+# last_modified_at: 2021-04-02 10:30:00 +0900
 ---
 
 ## Team Geocache Terms of Service
