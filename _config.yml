@@ -27,6 +27,7 @@ author: Team Geo
 #  Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.geoapp.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+description: "Geo app, by the Geo Team"
 
 ## twitter_username: jekyllrb
 ## github_username:  jekyll
