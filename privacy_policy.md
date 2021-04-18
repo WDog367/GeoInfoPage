@@ -6,7 +6,6 @@ permalink: /privacy_policy/
 ---
 
 ## Privacy Policy
-Privacy Policy
 
 The Geo Team ("Geo," "we," or "us") respects the privacy of our users ("you") regarding any information we may collect from you, through our app, ("GEO"), our website (collectively "our services"). This Privacy Policy describes how presonal information about you or associated with you ("personal data") is collected, used, and disclosed by Geo and our affiliates. This applies to all our services.
 
