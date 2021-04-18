@@ -35,7 +35,7 @@ You have a right at any time to stop collecting location data. Disable location 
 # Third-Party Services
 We don’t share any personally identifying information with third-parties, except when required to by law.
 
-Google Maps: Geo uses Google Maps services. Through the use of Google Maps API, the user may provide personally identifiable information and Personal Data directly to Google, subject to Google Privacy Policy at https://www.google.com/policies/privacy/. To provide the Services through the Customer Application(s), Google collects and receives data from and End Users, including search terms, IP addresses, and latitude/longitude coordinates. We do not share Data with Google, beyond what is collected in the Maps service.
+Google Maps: Geo uses Google Maps services. Through the use of Google Maps API, the user may provide personally identifiable information and Personal Data directly to Google, subject to Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). To provide the Services through the Customer Application(s), Google collects and receives data from and End Users, including search terms, IP addresses, and latitude/longitude coordinates. We do not share Data with Google, beyond what is collected in the Maps service.
 
 # Legal grounds for processing personal information
 
@@ -91,4 +91,4 @@ This policy is active as of the last-modified date displayed on this page.
 
 This policy is based on the Worpress Privacy Policy available at [https://en-ca.wordpress.org/about/privacy/](https://en-ca.wordpress.org/about/privacy/)
 
-This policy is distributed under (CC BY-SA 4.0), information available at (https://creativecommons.org/licenses/by-sa/4.0/)[https://creativecommons.org/licenses/by-sa/4.0/]
+This policy is distributed under (CC BY-SA 4.0), information available at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
