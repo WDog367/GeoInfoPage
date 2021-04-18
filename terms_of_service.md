@@ -39,3 +39,7 @@ Team Geocache may revise these terms of service for its app at any time without 
 
 **8. Governing Law**
 These terms and conditions are governed by and construed in accordance with the laws of Canada, Ontario and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+**9. Google Maps Features**
+Geocache includes Google Maps features and content. The use of Google Maps features and content is subject to the current versions of the: (1) Google Maps/Google Earth Additional Terms of Service at https://maps.google.com/help/terms_maps.html; and (2) Google Privacy Policy at https://www.google.com/policies/privacy/.
+
