@@ -42,9 +42,9 @@ Google Maps: Geo uses Google Maps services. Through the use of Google Maps API, 
 
 We rely on one or more of the following processing conditions:
 
--our legitimate interests in the effective delivery of information and services to you;
--explicit consent that you have given;
--legal obligations.
+- our legitimate interests in the effective delivery of information and services to you;
+- explicit consent that you have given;
+- legal obligations.
 
 # Access to data
 
@@ -86,7 +86,7 @@ Although most changes are likely to be minor, Geo may change its Privacy Policy 
 
 # Contact
 
-Please contact us if you have any questions about our privacy policy or information we hold about you by emailing geocacheapp@googlegroups.com.
+Please contact us if you have any questions about our privacy policy or information we hold about you by emailing "geocacheapp@googlegroups.com".
 
 This policy is active as of the last-modified date displayed on this page.
 
